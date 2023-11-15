@@ -17,16 +17,16 @@ I'm a Software Engineer passionate about creating Full-stack applications. I enj
 
 ## Projects
 ### Rocky Road Trip
-- Description: Have you ever daydreamed about hitting the open road with your best pals but got stuck in the planning stage? Say goodbye to the cumbersome spreadsheets, endless lists, and conflicting suggestions. Rocky Road Trip is here to fuel your wanderlust and turn those daydreams into reality!
-- Technologies Used: |  React  |  Yelp Api |  Express  |  MangoDB  |  Javascript  |  Redux | Axios
+- **Description:** Have you ever daydreamed about hitting the open road with your best pals but got stuck in the planning stage? Say goodbye to the cumbersome spreadsheets, endless lists, and conflicting suggestions. Rocky Road Trip is here to fuel your wanderlust and turn those daydreams into reality!
+- **Technologies Used:** |  React  |  Yelp Api |  Express  |  MangoDB  |  Javascript  |  Redux | Axios
 
 ### The Coloring Business
-- Description: The Coloring Business is a user-friendly web application for generating captivating color schemes tailored to websites and business themes. Users can effortlessly create harmonious palettes by generating random sets of five colors or specifying a base color, with the algorithm ensuring aesthetic coherence.
-- Technologies Used: |  Javascript  |  Event Listener
+- **Description:** The Coloring Business is a user-friendly web application for generating captivating color schemes tailored to websites and business themes. Users can effortlessly create harmonious palettes by generating random sets of five colors or specifying a base color, with the algorithm ensuring aesthetic coherence.
+- **Technologies Used:** |  Javascript  |  Event Listener
 
 ### AirBnE
-- Description: Developed a comprehensive Airbnb clone, a full-stack web application that serves as a platform for travelers to explore seamlessly and book accommodations worldwide.
-- Technologies Used: |  React  |  PostgreSQL  |  Rails  |  Ruby  |  Javascript  |  Redux  |
+- **Description:** Developed a comprehensive Airbnb clone, a full-stack web application that serves as a platform for travelers to explore seamlessly and book accommodations worldwide.
+- **Technologies Used:** |  React  |  PostgreSQL  |  Rails  |  Ruby  |  Javascript  |  Redux  |
 
 ## Education
 - **Degree:** Technocultural studies/ Cinema 

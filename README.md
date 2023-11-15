@@ -13,7 +13,7 @@ I'm a Software Engineer passionate about creating Full-stack applications. I enj
 - **Technologies & Tools:** ![React](https://img.shields.io/badge/-React-blue?logo=react&logoColor=white&style=flat) , ![Redux](https://img.shields.io/badge/-Redux-purple?logo=redux&logoColor=white&style=flat) , ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?logo=postgresql&logoColor=white&style=flat) , ![MongoDB](https://img.shields.io/badge/-MongoDB-green?logo=mongodb&logoColor=white&style=flat) , ![Ruby on Rails](https://img.shields.io/badge/-Rails-red?logo=ruby-on-rails&logoColor=white&style=flat) , ![Axios](https://img.shields.io/badge/-Axios-blue?logo=axios&logoColor=white&style=flat) , ![AWS](https://img.shields.io/badge/-AWS-orange?logo=amazon%20aws&logoColor=white&style=flat) , ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?logo=webpack&logoColor=white&style=flat) , ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat) ,![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat)
 
 
-- **Other Skills:** ![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-blue?logo=adobe%20photoshop&logoColor=white&style=flat) ,  
+- **Other Skills:** ![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-blue?logo=adobe%20photoshop&logoColor=white&style=flat) 
 
 ## Projects
 ### Rocky Road Trip
